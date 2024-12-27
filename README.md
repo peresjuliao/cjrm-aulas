@@ -3,8 +3,8 @@
 Este repositório contém as anotações e os exercícios realizados durante o **Curso de JavaScript do Roger Melo (CJRM)**.
 
 ## Estrutura do Repositório
-- **aula-01**: Anotações e exercícios da aula 01.
-- **aula-02**: Anotações e exercícios da aula 02.
+- **aula-01**: Estrutura das aulas.
+- **aula-01-04**: Constantes, variáveis e comentários - Aula 01-04.
 - *(Novas pastas serão adicionadas conforme o progresso no curso.)*
 
 ## Sobre o Curso
